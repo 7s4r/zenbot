@@ -46,7 +46,7 @@
     "node-prowl": "^0.1.7",
     "node-telegram-bot-api": "^0.29.0",
     "node-uuid": "^1.4.8",
-    "node.bittrex.api": "^0.2.5",
+    "node.bittrex.api": "^1.0.0",
     "number-abbreviate": "^2.0.0",
     "numbro": "highvelocityspace/numbro",
     "poloniex.js": "0.0.7",
