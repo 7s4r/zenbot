@@ -39,7 +39,7 @@
     "kraken-api": "^0.1.7",
     "mathjs": "3.16.5",
     "micro-request": "^666.0.10",
-    "mime": "^1.4.0",
+    "mime": "^2.4.3",
     "minimist": "^1.2.0",
     "moment": "^2.18.1",
     "mongodb": "^2.2.31",
